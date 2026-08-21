@@ -1,3 +1,3 @@
 ![bullet.](./banner.svg)
 
-🚀 Coming soon...
+bullet. pronounced `[bullet point]`
